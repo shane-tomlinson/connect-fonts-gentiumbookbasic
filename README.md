@@ -36,7 +36,7 @@ Available fonts:
 * genbkbasb
 * genbkbasbi
 * genbkbasi
-* genbkbasr
+* genbkbasr-regular
 
 Locale-optimised font sets can be served by specifying the locale in the fonts.css URL.
 ```html
